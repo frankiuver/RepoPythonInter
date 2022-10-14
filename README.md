@@ -8,4 +8,7 @@
 >Texto referencia
 # Simulacion
 # Resultados
+## Referencias
+-[Pandas] https://pandas.pydata.org
+-[libreria pandas](https://pandas.pydata.org/docs/)
 Prueba
